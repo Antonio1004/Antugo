@@ -1,0 +1,6 @@
+
+sail artisan migrate -> Sirve para pasar migraciones a la base de datos
+
+sail artisan make:migration nombre_migracion -> Sirve para crear migraciones
+
+sail artisan make:model nombre_modelo -r -> Sirve para crear un modelo y con la opcion -r creas tambien un controlador.
